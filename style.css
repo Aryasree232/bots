@@ -1,0 +1,13 @@
+#buttons{
+    border: 1px solid white;
+    background-color: #D4AF37;
+        color: white;
+}
+    
+      #buttons:hover{
+        background-color: white;
+        border: 1px solid black;
+        color:black;
+      }
+   
+
